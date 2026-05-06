@@ -115,13 +115,20 @@ ORDER BY DATA_TIMESTAMP DESC;
 # Screenshots
 
 ### Task Execution
-![Task Execution](screenshots/task_execution.png)
+![Task Execution]
+<img width="1677" height="938" alt="449f6412-48b1-4bbc-8053-9f9a1d0c79ba" src="https://github.com/user-attachments/assets/9cd593ac-cd45-46c7-8bd9-808b6af92cf5" />
 
 ### Stored Procedure Creation
-![Stored Procedure](screenshots/procedure_created.png)
+![Stored Procedure]   
+<img width="1712" height="919" alt="image" src="https://github.com/user-attachments/assets/38e24f1c-42fe-496b-ad8c-dcacaf22e34e" /> 
+
+
 
 ### Dynamic Table Monitoring Query
-![Dynamic Table Query](screenshots/dynamic_table_query.png)
+![Dynamic Table Query]
+<img width="1753" height="897" alt="1653ffbb-f8d6-49c4-9c60-be25bb1e100f" src="https://github.com/user-attachments/assets/4c946b86-777e-4b67-8397-08c93f920c07" />
+
+
 
 ---
 
